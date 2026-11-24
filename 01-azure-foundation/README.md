@@ -82,8 +82,8 @@ The Owner role provides full resource management permissions and the ability to 
 - [x] Annual budget configured
 - [x] Budget alert thresholds configured
 - [x] RBAC permissions reviewed
-- [ ] Screenshots uploaded as project evidence
-- [ ] Infrastructure deployment documented
+- [x] Screenshots uploaded as project evidence
+- [x] Infrastructure deployment documented
 
 ## 6. Lessons Learned
 
