@@ -33,6 +33,8 @@ Established the foundation for an Azure cloud environment using Azure for Studen
 - Use tags to organize cloud resources.
 - Understand Azure governance and cost management.
 - Apply least-privilege access principles.
+- Screenshots uploaded as project evidence
+- Infrastructure deployment documented
 
 ## Disclaimer
 This is an independent educational project using synthetic lab configurations. It is not an official Department of Defense environment and contains no government or employer information.
